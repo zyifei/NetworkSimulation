@@ -1,5 +1,7 @@
 # NetworkSimulation
 My research in social media influential ability by network simulation. 
+
+
 In the real world, we humans interact with each other at various fronts, in person,
 through a phone call, text messages, social media, emails, and many other ways. Through
 the impact of the conversations, everybody accepts influence from their friends in the
